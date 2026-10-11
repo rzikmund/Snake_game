@@ -9,6 +9,8 @@
 ```
 
 **The classic Snake game, right in your terminal, written in C#**
+<img width="1107" height="576" alt="Screenshot 2026-10-11 175041" src="https://github.com/user-attachments/assets/d6e893bc-1e19-4136-a34e-31ab4d3e7c50" />
+<img width="1107" height="591" alt="Screenshot 2026-10-11 174931" src="https://github.com/user-attachments/assets/31bf6dca-3ba6-415b-a496-70a54dd70647" />
 
 
 </div>
